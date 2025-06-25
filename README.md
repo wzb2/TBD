@@ -1,3 +1,2 @@
 # TBD
-Spooder shooter!
-A poorly optimized raycasting game with lighting for a school project. 
+A poorly optimized raycasting shooter game with lighting and stuff that I made for a school project. 
